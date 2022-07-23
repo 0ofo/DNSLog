@@ -6,7 +6,7 @@
 - 熟悉DNSLog底层技术原理
 
 ## DNSLog原理
-> http://blog.fflag.cn/
+> http://blog.fflag.cn/archives/33/
 
 ## 使用方式
 首先我们需要一个域名和一个带公网ip的服务器
